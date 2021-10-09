@@ -1,2 +1,5 @@
 # hello-world
-Just another ropository
+
+I'm a new comer
+
+I intend make a person space belong to myself 
